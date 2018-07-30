@@ -6,6 +6,8 @@ Maintainers - [Patrick Gray](https://github.com/patrickcgray)
 
 We are looking for additional maintainers! Let me know (pcg19@duke.edu) if interested.
 
+### Still in Progress! We haven't finished the initial update here.
+
 ## Contributing
 Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep-ecology/pulls) to add papers.
 
