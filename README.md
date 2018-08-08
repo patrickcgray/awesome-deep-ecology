@@ -4,19 +4,9 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 Maintainers - [Patrick Gray](https://github.com/patrickcgray)
 
-We are looking for additional maintainers! Let me know (pcg19@duke.edu) if interested.
+We are looking for additional maintainers! Let me know (pcg19 at duke) if interested.
 
-### Still in Progress! We haven't finished the initial update here.
-
-## Contributing
-Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep-ecology/pulls) to add papers.
-
-## Sharing
-+ [Share on Twitter](http://twitter.com/home?status=https://github.com/patrickcgray/awesome-deep-ecology)
-+ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=https://github.com/patrickcgray/awesome-deep-ecology)
-+ [Share on Google Plus](http://plus.google.com/share?url=https://github.com/patrickcgray/awesome-deep-ecology)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/patrickcgray/awesome-deep-ecology&title=Awesome%20Deep%20Ecology)
-
+<!--
 ## Table of Contents
 - [Papers](#papers)
   - [Detection](#detection)
@@ -31,6 +21,8 @@ Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep
 - [Datasets](#datasets)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
+
+-->
 
 ## Papers
 
@@ -60,4 +52,13 @@ Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep
 ## Tutorials
 
 ## Blogs
+
+## Contributing
+Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep-ecology/pulls) to add papers.
+
+## Sharing
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/patrickcgray/awesome-deep-ecology)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=https://github.com/patrickcgray/awesome-deep-ecology)
++ [Share on Google Plus](http://plus.google.com/share?url=https://github.com/patrickcgray/awesome-deep-ecology)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/patrickcgray/awesome-deep-ecology&title=Awesome%20Deep%20Ecology)
 
