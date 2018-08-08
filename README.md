@@ -2,7 +2,7 @@
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
-Maintainers - [Patrick Gray](https://github.com/patrickcgray)
+<!-- Maintainers - [Patrick Gray](https://github.com/patrickcgray) -->
 
 We are looking for additional maintainers! Let me know (pcg19 at duke) if interested.
 
