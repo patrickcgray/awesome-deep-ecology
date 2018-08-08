@@ -67,6 +67,7 @@ We are looking for additional maintainers! Let me know (pcg19 at duke) if intere
 ### Tracking
 * Automated Analysis of Marine Video With Limited Data
   * Deborah Levy, Yuval Belfer, Elad Osherov, Eyal Bigal, Aviad P. Scheinin, Hagai Nativ, Dan Tchernov, and Tali Treibitz
+  * http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w28/Levy_Automated_Analysis_of_CVPR_2018_paper.pdf
 
 ### Semantic Segmentation
 
@@ -85,10 +86,19 @@ We are looking for additional maintainers! Let me know (pcg19 at duke) if intere
 ## Videos
 
 ## Software
+* Annotation Tools
+  * VGG Image Annotator (VIA)
+    * http://www.robots.ox.ac.uk/~vgg/software/via/ 
+  * Visual Object Tagging Tool (VoTT)
+    * https://github.com/Microsoft/VoTT
+    
+* Well maintained implementations of neural networks
+  * Mask RCNN
+    * https://github.com/matterport/Mask_RCNN
+  * RetinaNet
+    * https://github.com/fizyr/keras-retinanet
 
 ## Datasets
-
-### Applications
 
 ## Tutorials
 
