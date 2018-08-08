@@ -79,11 +79,13 @@ We are looking for additional maintainers! Let me know (pcg19 at duke) if intere
 
 ### Other Topics
 
-## Courses
-
-## Books
-
+<!--
+## Courses 
+## Books 
 ## Videos
+## Tutorials
+## Blogs
+-->
 
 ## Software
 * Annotation Tools
@@ -99,10 +101,6 @@ We are looking for additional maintainers! Let me know (pcg19 at duke) if intere
     * https://github.com/fizyr/keras-retinanet
 
 ## Datasets
-
-## Tutorials
-
-## Blogs
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep-ecology/pulls) to add papers.
