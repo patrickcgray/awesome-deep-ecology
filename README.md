@@ -36,6 +36,13 @@ We are looking for additional maintainers! Let me know (pcg19 at duke) if intere
 
 ### Detection
 ![detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
+
+* Deep learning for benthic fauna identification. OCEANS 2016 MTS/IEEE Monterey, OCE 2016. 
+  * Marburg, A., & Bigham, K. (2016). 
+  * doi:10.1109/OCEANS.2016.7761146
+* Right whale recognition using convolutional neural networks. 
+  * Polzounov, A., Terpugova, I., Skiparis, D., & Mihai, A. (2016). 
+  * http://arxiv.org/abs/1604.05605
 #### Camera Traps
 * Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning
   * Mohammed Sadegh Norouzzadeh, Anh Nguyen, Margaret Kosmala, Ali Swanson, Meredith Palmer, Craig Packer, Jeff Clune
@@ -55,6 +62,9 @@ We are looking for additional maintainers! Let me know (pcg19 at duke) if intere
 * Multi-modal survey of Adélie penguin mega-colonies reveals the Danger Islands as a seabird hotspot
   * Alex Borowicz, Philip McDowall, Casey Youngflesh, Thomas Sayre-McCord, Gemma Clucas, Rachael Herman, Steven Forrest, Melissa Rider, Mathew Schwaller, Tom Hart, Stéphanie Jenouvrier, Michael J. Polito, Hanumant Singh & Heather J. Lynch
   * https://www.nature.com/articles/s41598-018-22313-w
+* Detecting Wildlife in Unmanned Aerial Systems Imagery Using Convolutional Neural Networks Trained with an Automated Feedback Loop
+  * Bowley, C., Mattingly, M., Barnas, A., Ellis-Felege, S., & Desell, T. (2018).  
+  * doi:10.1007/978-3-319-93698-7_6
   
 #### Other
 * Fast accurate fish detection and recognition of underwater images with Fast R-CNN
@@ -99,7 +109,11 @@ We are looking for additional maintainers! Let me know (pcg19 at duke) if intere
     * https://github.com/matterport/Mask_RCNN
   * RetinaNet
     * https://github.com/fizyr/keras-retinanet
-
+* Analysis tools
+  * Indoor Tracking: Romero-Ferrero, F., Bergomi, M. G., Hinz, R., Heras, F. J. H., & De Polavieja, G. G. (2018). idtracker.ai: Tracking all individuals in large collectives of unmarked animals, (Protocol 1). 
+  * doi:10.1101/280735
+  * Motion Detection: http://benweinstein.weebly.com/deepmeerkat.html   
+  
 ## Datasets
 
 ## Contributing
