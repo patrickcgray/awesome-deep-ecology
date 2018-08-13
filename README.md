@@ -6,6 +6,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 We are looking for additional maintainers! Let me know (pcg19 at duke) if interested.
 
+An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/deep_learning_ecology) with some neural networks you can run in the cloud to get a more intuitive understanding of deep learning, as well as suggestions for papers, videos, and quick resources, can be found [here](https://github.com/patrickcgray/deep_learning_ecology).
+
 <!--
 ## Table of Contents
 - [Papers](#papers)
