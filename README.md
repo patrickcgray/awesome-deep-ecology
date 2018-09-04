@@ -45,6 +45,7 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Right whale recognition using convolutional neural networks. 
   * Polzounov, A., Terpugova, I., Skiparis, D., & Mihai, A. (2016). 
   * http://arxiv.org/abs/1604.05605
+
 #### Camera Traps
 * Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning
   * Mohammed Sadegh Norouzzadeh, Anh Nguyen, Margaret Kosmala, Ali Swanson, Meredith Palmer, Craig Packer, Jeff Clune
@@ -100,6 +101,7 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 -->
 
 ## Software
+
 * Annotation Tools
   * VGG Image Annotator (VIA)
     * http://www.robots.ox.ac.uk/~vgg/software/via/ 
@@ -117,8 +119,17 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
   * Indoor Tracking: Romero-Ferrero, F., Bergomi, M. G., Hinz, R., Heras, F. J. H., & De Polavieja, G. G. (2018). idtracker.ai: Tracking all individuals in large collectives of unmarked animals, (Protocol 1). 
   * doi:10.1101/280735
   * Motion Detection: http://benweinstein.weebly.com/deepmeerkat.html   
+  * [Animal Detection Network](https://github.com/persts/andenet-desktop): semi-automated annotation tools for camera traps
+  * [Project Zamba](https://github.com/drivendataorg/zamba): A Python package for identifying 23 kinds of animals in camera trap videos
+
+* Models with open-source training code
+  * [Norouzzadeh et al. Snapshot Serengeti model training](https://github.com/Evolving-AI-Lab/deep_learning_for_camera_trap_images)
   
+
 ## Datasets
+
+* (CaltechCameraTraps)[https://beerys.github.io/CaltechCameraTraps/]: 243,187 annotated images from 140 camera locations in the Southwest US
+* (Snapshot Serengeti)[https://datadryad.org/resource/doi:10.5061/dryad.5pt92]: 1.2M annotated sequences from East Africa
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep-ecology/pulls) to add papers.
