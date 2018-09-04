@@ -113,7 +113,8 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
     * https://github.com/matterport/Mask_RCNN
   * RetinaNet
     * https://github.com/fizyr/keras-retinanet
-
+  * TensorFlow Object Detection API (Faster RCNN, Mask RCNN, SSD, Region-based Fully Convolutional Networks R-FCN)
+    * https://github.com/tensorflow/models/tree/master/research/object_detection
 * Analysis tools
   * Indoor Tracking: Romero-Ferrero, F., Bergomi, M. G., Hinz, R., Heras, F. J. H., & De Polavieja, G. G. (2018). idtracker.ai: Tracking all individuals in large collectives of unmarked animals, (Protocol 1). 
   * doi:10.1101/280735
