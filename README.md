@@ -50,6 +50,8 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning
   * Mohammed Sadegh Norouzzadeh, Anh Nguyen, Margaret Kosmala, Ali Swanson, Meredith Palmer, Craig Packer, Jeff Clune
   * https://arxiv.org/abs/1703.05830 or http://www.pnas.org/content/115/25/E5716
+* Machine learning to classify animal species in camera trap images: applications in ecology 
+  * Tabak et al. https://www.biorxiv.org/content/early/2018/06/14/346809
 * Recognition in Terra Incognita
   * Sara Beery, Grant Van Horn, and Pietro Perona
   * https://arxiv.org/pdf/1807.04975.pdf
@@ -57,6 +59,7 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Deep Learning Object Detection Methods for Ecological Camera Trap Data
   * Stefan Schneider, Graham W. Taylor, Stefan C. Kremer
   * https://arxiv.org/abs/1803.10842
+*
 * Scene‐specific convolutional neural networks for video‐based biodiversity detection
   * Ben G. Weinstein
   * https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13011
@@ -121,6 +124,7 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
   * Motion Detection: http://benweinstein.weebly.com/deepmeerkat.html   
   * [Animal Detection Network](https://github.com/persts/andenet-desktop): semi-automated annotation tools for camera traps
   * [Project Zamba](https://github.com/drivendataorg/zamba): A Python package for identifying 23 kinds of animals in camera trap videos
+  * Machine Learning for Image Classification R Package: https://github.com/mikeyEcology/MLWIC/
 
 * Models with open-source training code
   * [Norouzzadeh et al. Snapshot Serengeti model training](https://github.com/Evolving-AI-Lab/deep_learning_for_camera_trap_images)
