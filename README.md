@@ -35,6 +35,9 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * A computer vision for animal ecology
   * Ben G. Weinstein
   * https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.12780
+* Machine learning for image based species identification
+  * Jana Wäldchen
+  * https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13075
 
 ### Detection
 ![detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
