@@ -3,6 +3,8 @@
 A curated list of deep learning resources for computer vision, inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 <!-- Maintainers - [Patrick Gray](https://github.com/patrickcgray) -->
+<!-- Maintainers - [Ben Weinstein](https://github.com/bw4sz) -->
+
 
 We are looking for additional maintainers! Let me know (pcg19 at duke) if interested.
 
@@ -62,7 +64,8 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Deep Learning Object Detection Methods for Ecological Camera Trap Data
   * Stefan Schneider, Graham W. Taylor, Stefan C. Kremer
   * https://arxiv.org/abs/1803.10842
-*
+* A comparison of visual features used by humans and machines to classify wildlife
+  * https://www.biorxiv.org/content/early/2018/10/22/450189.full.pdf+html
 * Scene‐specific convolutional neural networks for video‐based biodiversity detection
   * Ben G. Weinstein
   * https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13011
