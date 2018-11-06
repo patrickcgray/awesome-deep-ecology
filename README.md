@@ -79,6 +79,9 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
   * doi:10.1007/978-3-319-93698-7_6
   
 #### Other
+* Omni-supervised joint detection and pose estimation for wild animals
+  * Zheng et al. 2018.
+  * https://www.sciencedirect.com/science/article/abs/pii/S0167865518308742
 * Fast accurate fish detection and recognition of underwater images with Fast R-CNN
   * Xiu Li, Min Shang, Hongwei Qin, Liansheng Chen
   * https://ieeexplore.ieee.org/document/7404464/
