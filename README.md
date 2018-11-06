@@ -79,9 +79,6 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
   * doi:10.1007/978-3-319-93698-7_6
   
 #### Other
-* Omni-supervised joint detection and pose estimation for wild animals
-  * Zheng et al. 2018.
-  * https://www.sciencedirect.com/science/article/abs/pii/S0167865518308742
 * Fast accurate fish detection and recognition of underwater images with Fast R-CNN
   * Xiu Li, Min Shang, Hongwei Qin, Liansheng Chen
   * https://ieeexplore.ieee.org/document/7404464/
@@ -97,6 +94,9 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 ### Semantic Segmentation
 
 ### Pose Estimation
+* Omni-supervised joint detection and pose estimation for wild animals
+  * Zheng et al. 2018.
+  * https://www.sciencedirect.com/science/article/abs/pii/S0167865518308742
 * Fast animal pose estimation using deep neural networks
   * Talmo D. Pereira, Diego E. Aldarondo, Lindsay Willmore, Mikhail Kislin, Samuel S.-H. Wang, Mala Murthy, Joshua W. Shaevitz
   * https://www.biorxiv.org/content/early/2018/05/30/331181
@@ -141,6 +141,7 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 
 ## Datasets
 
+* AI for Earth hosts some of the following: http://lila.science/datasets
 * (CaltechCameraTraps)[https://beerys.github.io/CaltechCameraTraps/]: 243,187 annotated images from 140 camera locations in the Southwest US
 * (Snapshot Serengeti)[https://datadryad.org/resource/doi:10.5061/dryad.5pt92]: 1.2M annotated sequences from East Africa
 * (eMammal/University of Missouri Camera Traps)[https://www.dropbox.com/s/e6akva1ynzu7mha/cameratrap.rar?dl=0]: 11 GB of annotated images from [Yousif et al. 2018](https://www.researchgate.net/profile/Roland_Kays/publication/327180011_Object_Detection_from_Dynamic_Scene_Using_Joint_Background_Modeling_and_Fast_Deep_Learning_Classification/links/5b852c624585151fd1373ba4/Object-Detection-from-Dynamic-Scene-Using-Joint-Background-Modeling-and-Fast-Deep-Learning-Classification.pdf)
