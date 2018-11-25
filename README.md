@@ -77,14 +77,18 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Detecting Wildlife in Unmanned Aerial Systems Imagery Using Convolutional Neural Networks Trained with an Automated Feedback Loop
   * Bowley, C., Mattingly, M., Barnas, A., Ellis-Felege, S., & Desell, T. (2018).  
   * doi:10.1007/978-3-319-93698-7_6
-  
+
+#### Audio
+* [Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge.](https://arxiv.org/pdf/1807.05812.pdf) Stowell et al. 2018
+* Oisin Mac Aodha, Rory Gibb, Kate E. Barlow, Ella Browning, Michael Firman, Robin Freeman, Briana Harder, Libby Kinsey, Gary R. Mead, Stuart E. Newson, Ivan Pandourski, Stuart Parsons, Jon Russ, Abigel Szodoray-Paradi, Farkas Szodoray-Paradi, Elena Tilova, Mark Girolami, Gabriel Brostow, Kate E. Jones
+  * http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005995
+
 #### Other
 * Fast accurate fish detection and recognition of underwater images with Fast R-CNN
   * Xiu Li, Min Shang, Hongwei Qin, Liansheng Chen
   * https://ieeexplore.ieee.org/document/7404464/
 * Bat detective—Deep learning tools for bat acoustic signal detection
-  * Oisin Mac Aodha, Rory Gibb, Kate E. Barlow, Ella Browning, Michael Firman, Robin Freeman, Briana Harder, Libby Kinsey, Gary R. Mead, Stuart E. Newson, Ivan Pandourski, Stuart Parsons, Jon Russ, Abigel Szodoray-Paradi, Farkas Szodoray-Paradi, Elena Tilova, Mark Girolami, Gabriel Brostow, Kate E. Jones
-  * http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005995
+
 
 ### Tracking
 * Automated Analysis of Marine Video With Limited Data
