@@ -69,6 +69,9 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Scene‐specific convolutional neural networks for video‐based biodiversity detection
   * Ben G. Weinstein
   * https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13011
+* Identifying animal species in camera trap images using deep learning and citizen science
+  * Marco Willi, Ross T. Pitman, Anabelle W. Cardoso, Christina Locke, Alexandra Swanson, Amy Boyer, Marten Veldthuis, Lucy Fortson
+  * https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13099
   
 #### Aerial Imagery
 * Multi-modal survey of Adélie penguin mega-colonies reveals the Danger Islands as a seabird hotspot
@@ -141,6 +144,7 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 
 * Models with open-source training code
   * [Norouzzadeh et al. Snapshot Serengeti model training](https://github.com/Evolving-AI-Lab/deep_learning_for_camera_trap_images)
+  * [Willi et al. Camera-Trap-Classifier model training](https://github.com/marco-willi/camera-trap-classifier)
   
 
 ## Datasets
@@ -150,6 +154,8 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * [Snapshot Serengeti](https://datadryad.org/resource/doi:10.5061/dryad.5pt92): 1.2M annotated sequences from East Africa
 * [eMammal/University of Missouri Camera Traps](https://www.dropbox.com/s/e6akva1ynzu7mha/cameratrap.rar?dl=0): 11 GB of annotated images from [Yousif et al. 2018](https://www.researchgate.net/profile/Roland_Kays/publication/327180011_Object_Detection_from_Dynamic_Scene_Using_Joint_Background_Modeling_and_Fast_Deep_Learning_Classification/links/5b852c624585151fd1373ba4/Object-Detection-from-Dynamic-Scene-Using-Joint-Background-Modeling-and-Fast-Deep-Learning-Classification.pdf)
 * [NIPS4Bplus: a richly annotated birdsong audio dataset](https://arxiv.org/abs/1811.02275)
+* [Camera-Trap datasets used in Willi et. al](https://doi.org/10.13020/D6T11K): over 7M annotated images from South Africa, Tanzania, and Wisconsin
+
 ## Contributing
 Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep-ecology/pulls) to add papers.
 
