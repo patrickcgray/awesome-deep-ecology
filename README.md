@@ -136,6 +136,7 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
   * TensorFlow Object Detection API (Faster RCNN, Mask RCNN, SSD, Region-based Fully Convolutional Networks R-FCN)
     * https://github.com/tensorflow/models/tree/master/research/object_detection
 * Analysis tools
+  * Animal Scanner for Camera traps: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4747
   * Indoor Tracking: Romero-Ferrero, F., Bergomi, M. G., Hinz, R., Heras, F. J. H., & De Polavieja, G. G. (2018). idtracker.ai: Tracking all individuals in large collectives of unmarked animals, (Protocol 1). 
   * doi:10.1101/280735
   * Motion Detection: http://benweinstein.weebly.com/deepmeerkat.html   
