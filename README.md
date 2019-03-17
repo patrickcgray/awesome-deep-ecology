@@ -80,7 +80,9 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Detecting Wildlife in Unmanned Aerial Systems Imagery Using Convolutional Neural Networks Trained with an Automated Feedback Loop
   * Bowley, C., Mattingly, M., Barnas, A., Ellis-Felege, S., & Desell, T. (2018).  
   * doi:10.1007/978-3-319-93698-7_6
-
+* A comparison of deep learning and citizen science techniques for counting wildlife in aerial survey images
+  * Colin J. Torney  David J. Lloyd‐Jones  Mark Chevallier  David C. Moyer  Honori T. Maliti Machoke Mwita  Edward M. Kohi  Grant C. Hopcraft. https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13165
+  
 #### Audio
 * [Automatic acoustic detection of birds through deep learning: the first Bird Audio Detection challenge.](https://arxiv.org/pdf/1807.05812.pdf) Stowell et al. 2018
 * Oisin Mac Aodha, Rory Gibb, Kate E. Barlow, Ella Browning, Michael Firman, Robin Freeman, Briana Harder, Libby Kinsey, Gary R. Mead, Stuart E. Newson, Ivan Pandourski, Stuart Parsons, Jon Russ, Abigel Szodoray-Paradi, Farkas Szodoray-Paradi, Elena Tilova, Mark Girolami, Gabriel Brostow, Kate E. Jones
