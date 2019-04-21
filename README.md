@@ -153,12 +153,16 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 
 ## Datasets
 
-* AI for Earth hosts some of the following: http://lila.science/datasets
+* [LILA BC](http://lila.science/datasets): a repository for labeled conservation data with ~20M images, including a [list](http://lila.science/otherdatasets) of other data sets
 * [CaltechCameraTraps](https://beerys.github.io/CaltechCameraTraps/): 243,187 annotated images from 140 camera locations in the Southwest US
 * [Snapshot Serengeti](https://datadryad.org/resource/doi:10.5061/dryad.5pt92): 1.2M annotated sequences from East Africa
 * [eMammal/University of Missouri Camera Traps](https://www.dropbox.com/s/e6akva1ynzu7mha/cameratrap.rar?dl=0): 11 GB of annotated images from [Yousif et al. 2018](https://www.researchgate.net/profile/Roland_Kays/publication/327180011_Object_Detection_from_Dynamic_Scene_Using_Joint_Background_Modeling_and_Fast_Deep_Learning_Classification/links/5b852c624585151fd1373ba4/Object-Detection-from-Dynamic-Scene-Using-Joint-Background-Modeling-and-Fast-Deep-Learning-Classification.pdf)
 * [NIPS4Bplus: a richly annotated birdsong audio dataset](https://arxiv.org/abs/1811.02275)
 * [Camera-Trap datasets used in Willi et. al](https://doi.org/10.13020/D6T11K): over 7M annotated images from South Africa, Tanzania, and Wisconsin
+
+## Further Reading
+
+* [Survey of machine learning applications for camera traps](https://agentmorris.github.io/camera-trap-ml-survey/)
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/patrickcgray/awesome-deep-ecology/pulls) to add papers.
