@@ -40,6 +40,9 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Machine learning for image based species identification
   * Jana Wäldchen
   * https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13075
+*  Revisiting the debate: documenting biodiversity in the age of digital and artificially generated images
+  *  Diego Sousa Campos, Rafael Ferreira de Oliveira, Lucas de Oliveira Vieira, Pedro Henrique Negreiros de Bragança, Jorge Luiz Silva Nunes, Erick Cristofore Guimarães, and Felipe Polivanov Ottoni
+  * https://we.copernicus.org/articles/23/135/2023/
 
 ### Detection
 ![detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
